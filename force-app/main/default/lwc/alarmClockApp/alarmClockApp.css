@@ -1,0 +1,23 @@
+:host(){
+    --dark-blue:#0b0d21;
+    --light-white:#fafafa;
+    --white:#ffffff;
+    --light-blue:#4f7df9;
+    --light-pink:#e91e63;
+    --size-16:16px;
+    --size-14:14px;
+    --size-12:12px;
+    --size-26:26px;
+    --size-38:38px;
+}
+
+.alarm-card{
+    max-width:440px;
+    width: 100%;
+    padding:30px;
+    background:#243356;
+    color:#ffffff;
+    border-radius: 16px;
+    margin: 24px auto;
+
+}
